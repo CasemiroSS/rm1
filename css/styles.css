@@ -1,0 +1,51 @@
+.corobka{
+    background: rgb(204, 204, 240);
+    padding-left: 600px;
+}
+.madr{
+    padding-left: 12px;
+}
+.hala{
+    padding-left: 600px;
+    padding-top: 20px;
+}
+.pysto{
+    /* background: rgb(78, 75, 75); */
+    
+    width: 300px;
+    height: 300px;
+    flex-shrink: 0;
+    
+   
+}
+.kvd{
+    padding-left: 600px;
+    padding-top: 50px;
+}
+.pysto2{
+    width: 600px;
+    height: 700px;
+    flex-shrink: 0;
+    background: rgb(179, 179, 179);
+    
+
+}
+.kvd2{
+    padding-top: 30px;
+    
+}
+
+.phon{
+    display: flex;
+    flex-direction: row;
+}
+.hystory{
+ padding-left: 40px;
+ padding-top: 40px;
+ padding-right: 40px;
+ padding-bottom: 40px;
+    
+}
+.stroka{
+    padding-top: 20px;
+}
